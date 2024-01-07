@@ -1,4 +1,4 @@
-package operator;
+package operator.ex;
 
 public class OperationEx1 {
     public static void main(String[] args) {
@@ -7,7 +7,6 @@ public class OperationEx1 {
         int num3 = 30;
 
         int sum = num1 + num2 + num3;
-
         int average = (num1 + num2 + num3) / 3;
 
         System.out.println("sum = " + sum);
